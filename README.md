@@ -15,7 +15,6 @@ The script compares the schemas based solely on column names and data types (ign
 ## Prerequisites
 
 - Python 3.7 or later.
-- [Google Cloud SDK](https://cloud.google.com/sdk) and credentials configured.
 - `google-cloud-bigquery` Python package. Install via pip:
 
 ```bash
