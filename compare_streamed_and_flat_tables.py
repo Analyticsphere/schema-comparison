@@ -81,7 +81,7 @@ if __name__ == "__main__":
     old_project = "nih-nci-dceg-connect-prod-6d04"  # Old project ID (BigQuery)
     old_dataset = "FlatConnect"                     # Old dataset in BigQuery
     new_schema_dir = "warren_schemas"               # Directory with new schema JSON files
-    
+
     # Initialize the BigQuery client.
     client = bigquery.Client(project=old_project)
     
