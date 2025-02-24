@@ -1,0 +1,154 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "Connect_ID",
+    "type": "STRING"
+  },
+  {
+    "name": "D_205713835",
+    "type": "STRING"
+  },
+  {
+    "name": "D_294886836",
+    "type": "STRING"
+  },
+  {
+    "name": "D_318641324",
+    "type": "STRING"
+  },
+  {
+    "name": "D_339570897",
+    "type": "STRING"
+  },
+  {
+    "name": "D_349659426",
+    "type": "STRING"
+  },
+  {
+    "name": "D_350251057",
+    "type": "STRING"
+  },
+  {
+    "name": "D_353467497",
+    "type": "STRING"
+  },
+  {
+    "name": "D_360678252",
+    "type": "STRING"
+  },
+  {
+    "name": "D_406270109",
+    "type": "STRING"
+  },
+  {
+    "name": "D_429994023",
+    "type": "STRING"
+  },
+  {
+    "name": "D_430060900",
+    "type": "STRING"
+  },
+  {
+    "name": "D_460873842",
+    "type": "STRING"
+  },
+  {
+    "name": "D_479143504",
+    "type": "STRING"
+  },
+  {
+    "name": "D_498984275",
+    "type": "STRING"
+  },
+  {
+    "name": "D_499977481",
+    "type": "STRING"
+  },
+  {
+    "name": "D_520416570",
+    "type": "STRING"
+  },
+  {
+    "name": "D_526973271",
+    "type": "STRING"
+  },
+  {
+    "name": "D_542661394",
+    "type": "STRING"
+  },
+  {
+    "name": "D_642044281",
+    "type": "STRING"
+  },
+  {
+    "name": "D_724589244",
+    "type": "STRING"
+  },
+  {
+    "name": "D_736028153",
+    "type": "STRING"
+  },
+  {
+    "name": "D_736393021",
+    "type": "STRING"
+  },
+  {
+    "name": "D_766370065",
+    "type": "STRING"
+  },
+  {
+    "name": "d_784119588",
+    "type": "STRING"
+  },
+  {
+    "name": "D_792134396",
+    "type": "STRING"
+  },
+  {
+    "name": "D_800703566",
+    "type": "STRING"
+  },
+  {
+    "name": "D_800752981",
+    "type": "STRING"
+  },
+  {
+    "name": "d_850585325",
+    "type": "STRING"
+  },
+  {
+    "name": "D_877878167",
+    "type": "STRING"
+  },
+  {
+    "name": "D_899251483_V2",
+    "type": "STRING"
+  },
+  {
+    "name": "D_921972241",
+    "type": "STRING"
+  },
+  {
+    "name": "D_957305523",
+    "type": "STRING"
+  },
+  {
+    "name": "D_983043203",
+    "type": "STRING"
+  },
+  {
+    "name": "uid",
+    "type": "STRING"
+  }
+]

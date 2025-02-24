@@ -1,0 +1,234 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "Connect_ID",
+    "type": "STRING"
+  },
+  {
+    "name": "D_124830305",
+    "type": "STRING"
+  },
+  {
+    "name": "D_145727599",
+    "type": "STRING"
+  },
+  {
+    "name": "D_176469609",
+    "type": "STRING"
+  },
+  {
+    "name": "D_210120853",
+    "type": "STRING"
+  },
+  {
+    "name": "D_210983898_D_210983898",
+    "type": "STRING"
+  },
+  {
+    "name": "D_210983898_D_766069692",
+    "type": "STRING"
+  },
+  {
+    "name": "D_228922812_D_228922812",
+    "type": "STRING"
+  },
+  {
+    "name": "D_228922812_D_587755868",
+    "type": "STRING"
+  },
+  {
+    "name": "D_260186214",
+    "type": "STRING"
+  },
+  {
+    "name": "D_307813936",
+    "type": "STRING"
+  },
+  {
+    "name": "D_355080680_D_355080680",
+    "type": "STRING"
+  },
+  {
+    "name": "D_355080680_D_607064749",
+    "type": "STRING"
+  },
+  {
+    "name": "D_363878103_D_177096151",
+    "type": "STRING"
+  },
+  {
+    "name": "D_363878103_D_363878103",
+    "type": "STRING"
+  },
+  {
+    "name": "D_394328384_D_394328384",
+    "type": "STRING"
+  },
+  {
+    "name": "D_394328384_D_887117937",
+    "type": "STRING"
+  },
+  {
+    "name": "D_403175318_D_403175318",
+    "type": "STRING"
+  },
+  {
+    "name": "D_403175318_D_507471937",
+    "type": "STRING"
+  },
+  {
+    "name": "D_465287908",
+    "type": "STRING"
+  },
+  {
+    "name": "D_470013848_D_470013848",
+    "type": "STRING"
+  },
+  {
+    "name": "D_470013848_D_495052121",
+    "type": "STRING"
+  },
+  {
+    "name": "D_472709337",
+    "type": "STRING"
+  },
+  {
+    "name": "D_476960744",
+    "type": "STRING"
+  },
+  {
+    "name": "D_482763096",
+    "type": "STRING"
+  },
+  {
+    "name": "D_496748977_D_492806629",
+    "type": "STRING"
+  },
+  {
+    "name": "D_496748977_D_496748977",
+    "type": "STRING"
+  },
+  {
+    "name": "D_549970786_D_549970786",
+    "type": "STRING"
+  },
+  {
+    "name": "D_549970786_D_733294715",
+    "type": "STRING"
+  },
+  {
+    "name": "D_575160226_D_108849491",
+    "type": "STRING"
+  },
+  {
+    "name": "D_575160226_D_575160226",
+    "type": "STRING"
+  },
+  {
+    "name": "D_579939641_D_303566606",
+    "type": "STRING"
+  },
+  {
+    "name": "D_579939641_D_579939641",
+    "type": "STRING"
+  },
+  {
+    "name": "D_586132480",
+    "type": "STRING"
+  },
+  {
+    "name": "D_630940888",
+    "type": "STRING"
+  },
+  {
+    "name": "D_646060480",
+    "type": "STRING"
+  },
+  {
+    "name": "D_649713579",
+    "type": "STRING"
+  },
+  {
+    "name": "D_674994176_D_124300201",
+    "type": "STRING"
+  },
+  {
+    "name": "D_674994176_D_674994176",
+    "type": "STRING"
+  },
+  {
+    "name": "D_731524314_D_638847244",
+    "type": "STRING"
+  },
+  {
+    "name": "D_731524314_D_731524314",
+    "type": "STRING"
+  },
+  {
+    "name": "d_784119588",
+    "type": "STRING"
+  },
+  {
+    "name": "D_800057241",
+    "type": "STRING"
+  },
+  {
+    "name": "D_875017278",
+    "type": "STRING"
+  },
+  {
+    "name": "D_886084185_D_126388230",
+    "type": "STRING"
+  },
+  {
+    "name": "D_886084185_D_886084185",
+    "type": "STRING"
+  },
+  {
+    "name": "D_890945599",
+    "type": "STRING"
+  },
+  {
+    "name": "d_905236593",
+    "type": "STRING"
+  },
+  {
+    "name": "D_943119849_D_314351052",
+    "type": "STRING"
+  },
+  {
+    "name": "D_943119849_D_943119849",
+    "type": "STRING"
+  },
+  {
+    "name": "D_945546878",
+    "type": "STRING"
+  },
+  {
+    "name": "D_956625094",
+    "type": "STRING"
+  },
+  {
+    "name": "D_960544981",
+    "type": "STRING"
+  },
+  {
+    "name": "D_972944307",
+    "type": "STRING"
+  },
+  {
+    "name": "uid",
+    "type": "STRING"
+  }
+]

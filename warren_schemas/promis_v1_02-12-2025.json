@@ -1,0 +1,270 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "Connect_ID",
+    "type": "STRING"
+  },
+  {
+    "name": "D_101862879",
+    "type": "STRING"
+  },
+  {
+    "name": "D_129202138",
+    "type": "STRING"
+  },
+  {
+    "name": "D_132343154",
+    "type": "STRING"
+  },
+  {
+    "name": "D_144446277",
+    "type": "STRING"
+  },
+  {
+    "name": "D_218828500",
+    "type": "STRING"
+  },
+  {
+    "name": "D_230486322_D_115480943",
+    "type": "STRING"
+  },
+  {
+    "name": "D_230486322_D_650091514",
+    "type": "STRING"
+  },
+  {
+    "name": "D_230486322_D_960308206",
+    "type": "STRING"
+  },
+  {
+    "name": "D_230486322_D_974618086",
+    "type": "STRING"
+  },
+  {
+    "name": "D_261177801_D_313287837",
+    "type": "STRING"
+  },
+  {
+    "name": "D_261177801_D_542492755",
+    "type": "STRING"
+  },
+  {
+    "name": "D_261177801_D_598001940",
+    "type": "STRING"
+  },
+  {
+    "name": "D_261177801_D_733106290",
+    "type": "STRING"
+  },
+  {
+    "name": "D_281351288",
+    "type": "STRING"
+  },
+  {
+    "name": "D_284353934_D_559540891",
+    "type": "STRING"
+  },
+  {
+    "name": "D_284353934_D_780866928",
+    "type": "STRING"
+  },
+  {
+    "name": "D_284353934_D_783201540",
+    "type": "STRING"
+  },
+  {
+    "name": "D_284353934_D_917425212",
+    "type": "STRING"
+  },
+  {
+    "name": "D_297016093",
+    "type": "STRING"
+  },
+  {
+    "name": "D_326712049_D_311938392",
+    "type": "STRING"
+  },
+  {
+    "name": "D_326712049_D_387564567",
+    "type": "STRING"
+  },
+  {
+    "name": "D_326712049_D_437905191",
+    "type": "STRING"
+  },
+  {
+    "name": "D_326712049_D_479680555",
+    "type": "STRING"
+  },
+  {
+    "name": "D_328149278",
+    "type": "STRING"
+  },
+  {
+    "name": "D_336566965_D_526006101",
+    "type": "STRING"
+  },
+  {
+    "name": "D_336566965_D_624200915",
+    "type": "STRING"
+  },
+  {
+    "name": "D_336566965_D_644233792",
+    "type": "STRING"
+  },
+  {
+    "name": "D_336566965_D_992194402",
+    "type": "STRING"
+  },
+  {
+    "name": "D_370227545",
+    "type": "STRING"
+  },
+  {
+    "name": "D_393186700",
+    "type": "STRING"
+  },
+  {
+    "name": "D_404946076_D_179665441",
+    "type": "STRING"
+  },
+  {
+    "name": "D_404946076_D_195292223",
+    "type": "STRING"
+  },
+  {
+    "name": "D_404946076_D_429680247",
+    "type": "STRING"
+  },
+  {
+    "name": "D_404946076_D_829976839",
+    "type": "STRING"
+  },
+  {
+    "name": "D_410751656",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420392309_D_226478149",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420392309_D_271090432",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420392309_D_828608766",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420392309_D_886047084",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420560514_D_380975443",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420560514_D_426764225",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420560514_D_693503159",
+    "type": "STRING"
+  },
+  {
+    "name": "D_420560514_D_754781311",
+    "type": "STRING"
+  },
+  {
+    "name": "D_424548783",
+    "type": "STRING"
+  },
+  {
+    "name": "d_490327747",
+    "type": "STRING"
+  },
+  {
+    "name": "D_582985641",
+    "type": "STRING"
+  },
+  {
+    "name": "D_608953994",
+    "type": "STRING"
+  },
+  {
+    "name": "D_633951291",
+    "type": "STRING"
+  },
+  {
+    "name": "D_697423629",
+    "type": "STRING"
+  },
+  {
+    "name": "D_715048033_D_168582270",
+    "type": "STRING"
+  },
+  {
+    "name": "D_715048033_D_361835532",
+    "type": "STRING"
+  },
+  {
+    "name": "D_715048033_D_468039454",
+    "type": "STRING"
+  },
+  {
+    "name": "D_715048033_D_803322918",
+    "type": "STRING"
+  },
+  {
+    "name": "D_755066850",
+    "type": "STRING"
+  },
+  {
+    "name": "D_766974306",
+    "type": "STRING"
+  },
+  {
+    "name": "d_784119588",
+    "type": "STRING"
+  },
+  {
+    "name": "D_801982443",
+    "type": "STRING"
+  },
+  {
+    "name": "D_907490539_D_105063268",
+    "type": "STRING"
+  },
+  {
+    "name": "D_907490539_D_467404576",
+    "type": "STRING"
+  },
+  {
+    "name": "D_907490539_D_658945347",
+    "type": "STRING"
+  },
+  {
+    "name": "D_907490539_D_787436735",
+    "type": "STRING"
+  },
+  {
+    "name": "D_990793746",
+    "type": "STRING"
+  },
+  {
+    "name": "uid",
+    "type": "STRING"
+  }
+]

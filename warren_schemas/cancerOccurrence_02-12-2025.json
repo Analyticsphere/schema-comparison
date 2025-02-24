@@ -1,0 +1,54 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "Connect_ID",
+    "type": "STRING"
+  },
+  {
+    "name": "d_114227122",
+    "type": "STRING"
+  },
+  {
+    "name": "d_345545422",
+    "type": "STRING"
+  },
+  {
+    "name": "d_421730068",
+    "type": "STRING"
+  },
+  {
+    "name": "d_525972260",
+    "type": "STRING"
+  },
+  {
+    "name": "d_740819233_d_149205077",
+    "type": "STRING"
+  },
+  {
+    "name": "d_740819233_d_868006655",
+    "type": "STRING"
+  },
+  {
+    "name": "d_793981056",
+    "type": "STRING"
+  },
+  {
+    "name": "d_844209241",
+    "type": "STRING"
+  },
+  {
+    "name": "token",
+    "type": "STRING"
+  }
+]

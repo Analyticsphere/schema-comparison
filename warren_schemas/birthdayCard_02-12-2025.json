@@ -1,0 +1,38 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "Connect_ID",
+    "type": "STRING"
+  },
+  {
+    "name": "d_194486780",
+    "type": "STRING"
+  },
+  {
+    "name": "d_768313785",
+    "type": "STRING"
+  },
+  {
+    "name": "d_902078073",
+    "type": "STRING"
+  },
+  {
+    "name": "d_916186376",
+    "type": "STRING"
+  },
+  {
+    "name": "token",
+    "type": "STRING"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "docId",
+    "type": "STRING"
+  },
+  {
+    "name": "createTime",
+    "type": "STRING"
+  },
+  {
+    "name": "updateTime",
+    "type": "STRING"
+  },
+  {
+    "name": "attempt",
+    "type": "STRING"
+  },
+  {
+    "name": "bounceDate",
+    "type": "STRING"
+  },
+  {
+    "name": "bounceReason",
+    "type": "STRING"
+  },
+  {
+    "name": "bounceStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "category",
+    "type": "STRING"
+  },
+  {
+    "name": "clickDate",
+    "type": "STRING"
+  },
+  {
+    "name": "clickStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "deferredDate",
+    "type": "STRING"
+  },
+  {
+    "name": "deferredStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "deliveredDate",
+    "type": "STRING"
+  },
+  {
+    "name": "deliveredStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "droppedDate",
+    "type": "STRING"
+  },
+  {
+    "name": "droppedReason",
+    "type": "STRING"
+  },
+  {
+    "name": "droppedStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "email",
+    "type": "STRING"
+  },
+  {
+    "name": "errorCode",
+    "type": "STRING"
+  },
+  {
+    "name": "errorMessage",
+    "type": "STRING"
+  },
+  {
+    "name": "failedDate",
+    "type": "STRING"
+  },
+  {
+    "name": "id",
+    "type": "STRING"
+  },
+  {
+    "name": "language",
+    "type": "STRING"
+  },
+  {
+    "name": "messageSid",
+    "type": "STRING"
+  },
+  {
+    "name": "notification_body",
+    "type": "STRING"
+  },
+  {
+    "name": "notification_time",
+    "type": "STRING"
+  },
+  {
+    "name": "notification_title",
+    "type": "STRING"
+  },
+  {
+    "name": "notificationSpecificationsID",
+    "type": "STRING"
+  },
+  {
+    "name": "notificationType",
+    "type": "STRING"
+  },
+  {
+    "name": "openDate",
+    "type": "STRING"
+  },
+  {
+    "name": "openStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "phone",
+    "type": "STRING"
+  },
+  {
+    "name": "processedDate",
+    "type": "STRING"
+  },
+  {
+    "name": "processedStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "read",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "spamreportDate",
+    "type": "STRING"
+  },
+  {
+    "name": "spamreportStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "status",
+    "type": "STRING"
+  },
+  {
+    "name": "token",
+    "type": "STRING"
+  },
+  {
+    "name": "twilioNotificationSid",
+    "type": "STRING"
+  },
+  {
+    "name": "uid",
+    "type": "STRING"
+  },
+  {
+    "name": "undeliveredDate",
+    "type": "STRING"
+  },
+  {
+    "name": "unsubscribeDate",
+    "type": "STRING"
+  },
+  {
+    "name": "unsubscribeStatus",
+    "type": "BOOLEAN"
+  },
+  {
+    "name": "updatedDate",
+    "type": "STRING"
+  }
+]
